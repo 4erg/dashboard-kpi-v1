@@ -1,0 +1,7 @@
+{
+    "name": "edwin/dashboard-kpi",
+    "description": "Dashboard de KPI con PHP, MySQL, POO, MVC, AJAX, Chart.js y Dompdf",
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
